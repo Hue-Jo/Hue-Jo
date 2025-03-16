@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![](https://img.shields.io/github/last-commit/Hue-Jo/deepdiview.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hue-Jo&layout=compact&theme=dark)](https://github.com/Hue-Jo/github-readme-stats)
 
