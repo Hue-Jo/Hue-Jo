@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&color=auto&text=Hi!-nl-I'm%20HueJo&animation=fadeIn"/>
 </p>
 
+-----
 <p align="center">
   <a href="https://github.com/Hue-Jo/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hue-Jo&layout=compact&theme=dark"/>
@@ -19,6 +20,8 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
+
+-----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
