@@ -33,7 +33,6 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center">  </div>  <br> 
       <p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <a href="https://velog.io/@hyu-jo">
     <img src="https://velog-readme-stats.vercel.app/api/badge?name=HueJo"/>
   </a>
