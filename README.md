@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👩🏻‍💻BE 개발자 윤혜진입니다.  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 매일 어제의 나보다 더 나은 개발자가 되기 위해 노력합니다 🪴</li> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 어제의 나보다 더 나은 개발자가 되기 위해 노력합니다 🪴</li> 
     </div> 
 </div>
 <br></br>
